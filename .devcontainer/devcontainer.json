@@ -24,7 +24,13 @@
           "python.terminal.activateEnvInCurrentTerminal": true
         },
         "extensions": [
-          "snowflake.snowflake-vsc"
+          "ms-python.python",
+          "ms-python.vscode-pylance",
+          "snowflake.snowflake-vsc",
+          "ms-azuretools.vscode-docker",
+          "GitHub.copilot",
+          "ms-toolsai.jupyter",
+          "MeshIntelligentTechnologiesInc.pieces-vscode"
         ]
       }
     }
